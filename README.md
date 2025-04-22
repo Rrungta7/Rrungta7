@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I’m Riddhi Rungta
 
-<!--
-**Rrungta7/Rrungta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about data that drives action — from dashboards to algorithms, I’m all about turning raw numbers into real stories.
 
-Here are some ideas to get you started:
+🔍 Exploring everything data:
+- Machine Learning & Predictive Modeling
+- Interactive Dashboards & BI Tools
+- Data Storytelling, Automation & ETL
+- Forecasting, Clustering, Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently playing with:
+`Python` | `SQL` | `Power BI` | `Tableau` | `Google Data Studio`  
+`Streamlit` | `Excel/VBA` | `AWS/GCP` | `Scikit-learn` | `Pandas` | `Seaborn` | `ARIMA`
+
+💡 I build:
+- 📊 Dashboards that executives actually *use*
+- 🧠 Machine learning models with purpose
+- 📈 Visuals that simplify the complex
+- 🤖 Automations that save time (and sanity)
+
+🌱 Constantly learning and always curious — currently working on personal tech + finance dashboards, student engagement analytics, and some very cool side experiments.
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/riddhirungta7)  
+🎨 Fun fact: I see datasets the way artists see blank canvases — full of potential.
+
+✨ Thanks for stopping by!
